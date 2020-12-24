@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(71, 69, 69, 0.979);
+}
+
+#cont{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: royalblue;
+    padding: 10px;
+    display: flex;
+}
+input,button{
+    margin: 10px;
+    box-shadow: 2px 2px 1px black;
+}
+button{
+    cursor: pointer;
+}
+
